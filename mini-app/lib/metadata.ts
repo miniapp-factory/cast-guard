@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "CastGuard";
+export const description = "A minimalistic chatbot for OSINT on Farcaster.";
 export const url = process.env.NEXT_PUBLIC_URL;
